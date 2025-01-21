@@ -1,0 +1,7 @@
+firebase-admin==6.6.0
+streamlit==1.41.1
+pandas==2.2.2
+numpy==1.26.4
+pyngrok==7.2.3
+google-cloud==0.34.0
+google-auth==2.27.0
