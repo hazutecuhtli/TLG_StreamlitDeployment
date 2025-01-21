@@ -1,4 +1,4 @@
-# Sr Data Science TLG Course - Web Applications for Data Science
+# Web Applications for Data Science
 
 This repository contains the solution for the *web applications for data science* section final project, for the *Sr Data Science* course developed by the *Tecnologico de Monterrey*, available in the *The Learning Gate* platform. The mentioned section allows students to learn about the use of the open-source *Streamlit* framework and the *Firestore* NoSQL document database for the development and deployment of web apps.
 
